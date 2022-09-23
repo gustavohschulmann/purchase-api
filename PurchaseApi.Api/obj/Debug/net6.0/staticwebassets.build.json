@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BnUyBjg2aPj4OoyL/adGyMlSkQStmje7EOkauH4gTyI=",
+  "Source": "PurchaseApi.Api",
+  "BasePath": "_content/PurchaseApi.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

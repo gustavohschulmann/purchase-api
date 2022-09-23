@@ -1,0 +1,15 @@
+/Users/gustavoschulmann/Documents/dev/dotnet projects/PurchaseApi/PurchaseApi.Infra.Data/bin/Debug/net6.0/PurchaseApi.Infra.Data.deps.json
+/Users/gustavoschulmann/Documents/dev/dotnet projects/PurchaseApi/PurchaseApi.Infra.Data/bin/Debug/net6.0/PurchaseApi.Infra.Data.dll
+/Users/gustavoschulmann/Documents/dev/dotnet projects/PurchaseApi/PurchaseApi.Infra.Data/bin/Debug/net6.0/PurchaseApi.Infra.Data.pdb
+/Users/gustavoschulmann/Documents/dev/dotnet projects/PurchaseApi/PurchaseApi.Infra.Data/bin/Debug/net6.0/PurchaseApi.Domain.dll
+/Users/gustavoschulmann/Documents/dev/dotnet projects/PurchaseApi/PurchaseApi.Infra.Data/bin/Debug/net6.0/PurchaseApi.Domain.pdb
+/Users/gustavoschulmann/Documents/dev/dotnet projects/PurchaseApi/PurchaseApi.Infra.Data/obj/Debug/net6.0/PurchaseApi.Infra.Data.csproj.AssemblyReference.cache
+/Users/gustavoschulmann/Documents/dev/dotnet projects/PurchaseApi/PurchaseApi.Infra.Data/obj/Debug/net6.0/PurchaseApi.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavoschulmann/Documents/dev/dotnet projects/PurchaseApi/PurchaseApi.Infra.Data/obj/Debug/net6.0/PurchaseApi.Infra.Data.AssemblyInfoInputs.cache
+/Users/gustavoschulmann/Documents/dev/dotnet projects/PurchaseApi/PurchaseApi.Infra.Data/obj/Debug/net6.0/PurchaseApi.Infra.Data.AssemblyInfo.cs
+/Users/gustavoschulmann/Documents/dev/dotnet projects/PurchaseApi/PurchaseApi.Infra.Data/obj/Debug/net6.0/PurchaseApi.Infra.Data.csproj.CoreCompileInputs.cache
+/Users/gustavoschulmann/Documents/dev/dotnet projects/PurchaseApi/PurchaseApi.Infra.Data/obj/Debug/net6.0/PurchaseApi.Infra.Data.csproj.CopyComplete
+/Users/gustavoschulmann/Documents/dev/dotnet projects/PurchaseApi/PurchaseApi.Infra.Data/obj/Debug/net6.0/PurchaseApi.Infra.Data.dll
+/Users/gustavoschulmann/Documents/dev/dotnet projects/PurchaseApi/PurchaseApi.Infra.Data/obj/Debug/net6.0/refint/PurchaseApi.Infra.Data.dll
+/Users/gustavoschulmann/Documents/dev/dotnet projects/PurchaseApi/PurchaseApi.Infra.Data/obj/Debug/net6.0/PurchaseApi.Infra.Data.pdb
+/Users/gustavoschulmann/Documents/dev/dotnet projects/PurchaseApi/PurchaseApi.Infra.Data/obj/Debug/net6.0/ref/PurchaseApi.Infra.Data.dll

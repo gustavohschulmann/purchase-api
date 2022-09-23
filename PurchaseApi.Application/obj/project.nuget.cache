@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "V6r/1QmLioPlr007HO9TJO0Gfw8invDCpSFbPZkSyd8ckNCPh1fh1ZD637tDehMPR+SSsx2zxmzaQjueuk/qsQ==",
+  "success": true,
+  "projectFilePath": "/Users/gustavoschulmann/Documents/dev/dotnet projects/PurchaseApi/PurchaseApi.Application/PurchaseApi.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/gustavoschulmann/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
+    "/Users/gustavoschulmann/.nuget/packages/fluentvalidation/11.2.0/fluentvalidation.11.2.0.nupkg.sha512",
+    "/Users/gustavoschulmann/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
